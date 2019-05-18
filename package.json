@@ -1,0 +1,21 @@
+{
+  "name": "dict",
+  "version": "1.0.0",
+  "description": "",
+  "main": "aoo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parse": "*",
+    "cors": "*",
+    "ejs": "^2.6.1",
+    "errorhandler": "*",
+    "express": "*",
+    "mongoose": "^5.4.16",
+    "request": "^2.81.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
